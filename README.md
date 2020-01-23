@@ -22,3 +22,5 @@ Materials for a workshop on [OpenSCAD](https://www.openscad.org/).
 ### Libraries
 
 * [threads](http://dkprojects.net/openscad-threads/)
+* [gears](https://github.com/chrisspen/gears)
+
