@@ -29,7 +29,7 @@ blade_id = 4; //[0:0.1:20]
 /* [Blade - Pins] */
 has_pins = false;
 blade_pin_d = 2; //[0:0.1:5]
-blade_pin_offset = 1; //[-5:0.1:5]
+blade_pin_offset = 0; //[-5:0.1:5]
 blade_pin_code = [0, 8, 3, 3, 1, 8, 1, 6];
 blade_pin_h_mult = 0.333;
 blade_pin_count = len(blade_pin_code);
